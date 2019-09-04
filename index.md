@@ -1,7 +1,7 @@
 # Tejas Shastri's First CS193 Homework
 
 - I like that CS 193 is taught by other students
-- I like how the lecutures are funny
+- I like how the lectures are funny
 - I enjoy CS in general 
 
 
